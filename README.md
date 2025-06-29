@@ -34,8 +34,7 @@ A comprehensive Flutter application for community-based family registration and 
 
 ### Prerequisites
 
-- Flutter SDK (3.0.0 or higher)
-- Dart SDK (3.0.0 or higher)
+- Flutter SDK (3.29.3 or higher)
 - Android Studio / VS Code
 - Git
 
@@ -63,8 +62,6 @@ A comprehensive Flutter application for community-based family registration and 
 
 - ✅ Android (API 21+)
 - ✅ iOS (iOS 11.0+)
-- ⚠️ Web (Limited support)
-- ⚠️ Desktop (Not tested)
 
 ## 📱 Usage Guide
 
@@ -295,27 +292,6 @@ flutter doctor
 - **Storage**: PDF export and photo storage
 - **Phone**: OTP verification (demo mode)
 
-## 🚀 Future Enhancements
-
-### Planned Features
-
-- [ ] Cloud synchronization
-- [ ] Multiple family support
-- [ ] Advanced search and filtering
-- [ ] Family event calendar
-- [ ] Push notifications
-- [ ] Multi-language support
-- [ ] Dark mode theme
-- [ ] Advanced export options
-
-### Technical Improvements
-
-- [ ] Unit and widget tests
-- [ ] Performance optimization
-- [ ] Accessibility improvements
-- [ ] Code documentation
-- [ ] CI/CD pipeline
-
 ## 📞 Support
 
 ### Getting Help
@@ -323,13 +299,6 @@ flutter doctor
 - **Documentation**: Refer to this README
 - **Issues**: Check existing GitHub issues
 - **Community**: Flutter community forums
-
-### Reporting Bugs
-
-1. **Check existing issues** - Avoid duplicates
-2. **Provide details** - Device, OS, steps to reproduce
-3. **Include logs** - Debug information if available
-4. **Screenshots** - Visual evidence of issues
 
 ## 📄 License
 
@@ -353,7 +322,3 @@ This project is developed for educational and demonstration purposes. Please ref
 - **Testing**: Add tests for new features
 
 ---
-
-**Built with ❤️ using Flutter**
-
-_Wallet Hunter - Connecting Families, Building Communities_
